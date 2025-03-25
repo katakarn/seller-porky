@@ -7,7 +7,7 @@ const Card: React.FC<{ title: string; price: number; picture: string; point?: nu
     return (
         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow-2xl">
             <a href="#">
-                <img className="h-70 md:h-100 md:w-auto lg:h-100 lg:w-auto p-8 rounded-t-lg" src={picture} alt="product image" />
+                <img className="h-70 md:h-90 md:w-auto lg:h-90 lg:w-auto p-8 rounded-t-lg" src={picture} alt="product image" />
             </a>
             <div className="px-5 pb-5">
                 <a href="#">
