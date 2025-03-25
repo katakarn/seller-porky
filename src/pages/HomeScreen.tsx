@@ -22,7 +22,7 @@ export default function Example() {
                             <span className="sr-only">Your Company</span>
                             <img
                                 alt=""
-                                src="../../public/pig.png"
+                                src="https://images-ext-1.discordapp.net/external/pafHHrDfBQjfIfefaLxa2KnITyPoEkMiTSk_bcwS6Yo/%3Fsemt%3Dais_hybrid/https/cdn-icons-png.freepik.com/256/14855/14855036.png?format=webp&quality=lossless&width=512&height=512"
                                 className="h-16 w-auto hover:h-32 md:h-20 lg:h-24"
                             />
                         </a>
@@ -123,10 +123,10 @@ export default function Example() {
                     </div>
                     <div className="text-center">
                         <h1 className="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">
-                            หิวเมื่อไหร่ก็แวะมา
+                            หมูทอดลุงซอ
                         </h1>
                         <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
-                            ซื้อง่าย สะดวก รวดเร็ว สินค้าคุณภาพ ราคาถูก มีหลากหลายสินค้าให้เลือก
+                            หิวเมื่อไหร่ก็แวะมาที่นี่ รับรองไม่ผิดหวัง
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6">
                             <a
@@ -154,7 +154,7 @@ export default function Example() {
                     />
                 </div>
                 <Example2 />
-                
+
             </div>
         </div>
     )
